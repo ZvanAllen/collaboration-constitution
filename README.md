@@ -9,6 +9,11 @@
 
 To comment, email <dmanuel@biglifelab.org> or use a technical route at the bottom.
 
+> **Fork development:** This branch explores how the constitution can govern
+> AI-assisted project management while preserving the original authorship and
+> upstream lineage. See the [project management covenant](docs/project-management-covenant.md)
+> and [team starter](templates/team-project-management-starter.md).
+
 ## About this document
 
 I am a health researcher. My work serves public health and medicine, including in low- and middle-income countries, and it depends on what others have shared openly. This is my working agreement with AI: what I will do, what I expect AI to do, and how we stay honest. The commitments below should remain stable across tools, projects, and sessions; workflow defaults and examples live in the companion documents.
@@ -37,11 +42,14 @@ Judgement means deciding what to do with evidence, uncertainty, and consequences
 
 - [Operational covenant](docs/operational-covenant.md): workflow defaults, tooling expectations, provenance, testing, documentation, consent boundaries, and reproducibility practices
 - [Practices and examples](docs/practices-and-examples.md): interpretation, examples, case patterns, and onboarding material
+- [Project management covenant](docs/project-management-covenant.md): sources of truth, human approvals, actions, decisions, status reporting, and review cadence
 - [Why this document exists](docs/why.md): context and reasoning for the project
 
 ## Authorship
 
 By Doug Manuel. Drafted in dialogue with AI coding agents.
+
+The project-management adaptation was initiated by Zack van Allen in this fork and remains subject to review.
 
 ## Versions, changes, and forks
 
